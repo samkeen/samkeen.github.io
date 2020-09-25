@@ -1,0 +1,33 @@
+body {
+    padding: 0 20px;
+}
+
+code {
+    color: #a470dc
+}
+
+.no-issues {
+    color: gray;
+    margin-bottom: 0;
+}
+
+.small-text {
+    font-size: smaller;
+}
+
+.top-section {
+    padding: 1rem !important;
+    margin-bottom: 3rem !important;
+    box-shadow: none !important;
+    border-radius: .25rem !important;
+    background-color: #f8f9fa;
+    box-sizing: border-box;
+}
+
+.finding {
+    padding-left: .5rem;
+}
+
+.finding-context {
+    padding-left: 1rem;
+}
